@@ -1,1 +1,2 @@
-# Tesi_Triennale_in_Informatica
+# SafeKids:Progettazione e sviluppo di un'applicazione Android per il Parental Control
+Tesi di laurea in "Modelli e Metodi per la sicurezza delle applicazioni" - Laurea Triennale in Informatica - Dipartimento di Informatica - Università degli Studi Di Bari Aldo Moro.
